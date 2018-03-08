@@ -1,0 +1,29 @@
+body{
+  font-family: "HelveticaNeueLT Com 65 Md", sans-serif;
+  /*background-color: #311B92;*/
+  background: url("./img/bg-01.png") 0 -1050px;
+  min-width: 100vh;
+  font-size: 13px;
+}
+
+.App{
+  text-align: center;
+
+}
+
+.todo-wrapper{
+  margin: 200px auto;
+  width: 450px;
+  padding: 40px 20px;
+  border-radius: 10px;
+  background-color: #FFF;
+  box-shadow: 0 8px 20px -6px black;
+}
+
+h1{
+  color: #212121;
+}
+
+ul{
+  padding-right: 40px;
+}
